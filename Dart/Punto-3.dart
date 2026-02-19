@@ -1,8 +1,5 @@
 import 'dart:io';
 
-void main() {
-  calcularTotalPuntos();
-}
 void calcularTotalPuntos (){
   print('Número de partidos ganados:');
   int ganados = int.parse(stdin.readLineSync()!);
