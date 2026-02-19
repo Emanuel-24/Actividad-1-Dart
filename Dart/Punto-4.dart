@@ -3,7 +3,7 @@
 // en el mes y la tarifa por hora. Se debe  calcular el total devengado por el empleado
 // en el mes e imprimir: Nombre del empleado, cantidad de horas laboradas y total devengado. 
 import 'dart:io';
-void main(){
+void PlantillaEmpleado(){
 
   print("=======================");
   print("Crear plantilla de un empleado");
