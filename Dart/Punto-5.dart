@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-void main() {
+void calcularHipotenusa() {
   print("Ingrese el cateto a: ");
   double a = double.parse(stdin.readLineSync()!);
   print("Ingrese el cateto b: ");

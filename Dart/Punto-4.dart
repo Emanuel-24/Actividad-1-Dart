@@ -16,7 +16,7 @@ void PlantillaEmpleado(){
   print("3. Digite la tarifa por hora:");
   double? hourlyRate = double.parse(stdin.readLineSync()!);
 
-  print("3. Digite el subsidio de transporte:");
+  print("4. Digite el subsidio de transporte:");
   double? subsidioTransporte = double.parse(stdin.readLineSync()!);
 
   
